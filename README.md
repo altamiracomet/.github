@@ -24,7 +24,7 @@ Work continues on improving the image processing so it can represent the diversi
 
 **How do we make a small artificial object behave just like a real comet?**
 
-We are exploring how to form the comet from water and golden selfies, whether to freeze it before launch or in space, how to release it safely, how sublimation will release the selfies and shape it's tail, and how the comet will continue to evolve over time.
+We are exploring how to form the comet from water and golden selfies, whether to freeze it before launch or in space, how to release it safely, how sublimation will release the selfies and shape its tail, and how the comet will continue to evolve over time.
 
 **How do we carry the comet into heliocentric orbit, release it safely, and observe our journey?**
 
@@ -57,7 +57,7 @@ The way we collaborate can evolve along with the comet.
 
 ## Why Altamira?
 
-Tens of thousands of years ago, our ancestors left impressions of their hands on cave walls around the world, first discovered in Spain in the Cave of Altamira. Each hand is the mark of a individual person, but *together* the hands are an act of communication made by a community, for a community.
+Tens of thousands of years ago, our ancestors left impressions of their hands on cave walls around the world, first discovered in Spain in the Cave of Altamira. Each hand is the mark of an individual person, but *together* the hands are an act of communication made by a community, for a community.
 
 The Altamira Comet began with the idea that our selfies may be a contemporary version of this same gesture: a simple way for each person on Earth to leave their own mark and at the same time become part of something shared that we all make together. From the Stone Age to the Space Age.
 
