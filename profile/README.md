@@ -12,7 +12,7 @@ Our goal is for at least one billion people across countries, cultures, and comm
 
 **We All Go.**
 
-This GitHub follows the technical development of the comet. Once launched, the public campaign for participation in the comet will be found at [altamiracomet.org](altamiracomet.org).
+This GitHub follows the technical development of the comet. Once launched, the public campaign for participation in the comet will be found at [altamiracomet.org]([altamiracomet.org](https://www.altamiracomet.org/)).
 
 ## What we're working on
 
