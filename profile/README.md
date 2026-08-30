@@ -12,7 +12,7 @@ Our goal is for at least one billion people across countries, cultures, and comm
 
 **We All Go.**
 
-This GitHub follows the technical development of the comet. Once launched, the public campaign for participation in the comet will be found at [altamiracomet.org](https://www.altamiracomet.org/).
+This GitHub follows the development of the comet. Once launched, the public campaign for participation in the comet will be found at [altamiracomet.org](https://www.altamiracomet.org/).
 
 ## What we're working on
 
@@ -64,7 +64,7 @@ The work includes educational materials, a classroom web experience, integration
 
 The challenge is not simply to reach a billion people. It is to make it genuinely possible for anyone, anywhere in the world, to add their selfie to the comet.
 
-Our goal is not simply to reach a large audience, it is to make it genuinely possible for anyone, anywhere, to add their own selfie to the comet. We are developing ways for people to participate through the web and social media, schools and classrooms, events, and physical access points where needed. The experience should work across languages, countries, cultures, devices, and different levels of internet access, as a simple act: take your selfie, see it transformed into your golden selfie, and add it to the comet with everyone else.
+We are developing ways for people to participate through the web and social media, schools and classrooms, events, and physical access points where needed. The experience should work across languages, countries, cultures, devices, and different levels of internet access, as a simple act: take your selfie, see it transformed into your golden selfie, and add it to the comet with everyone else.
 
 ## A constellation of contributors
 
@@ -80,7 +80,7 @@ We're figuring this out as we go.
 
 ## Why Altamira?
 
-Tens of thousands of years ago, our ancestors left impressions of their hands on cave walls around the world, first discovered in Spain in the Cave of Altamira. Each hand is the mark of an individual person, but *together* the hands are an act of communication made by a community, for a community.
+Tens of thousands of years ago, our ancestors left impressions of their hands on cave walls around the world, including the Cave of Altamira in Spain. Each hand is the mark of a unique, individual person, but *together* the hands are an act of communication made by a community, for a community.
 
 The Altamira Comet began with the idea that our selfies may be a contemporary version of this same gesture: a simple way for each person on Earth to leave their own mark and at the same time become part of something shared that we all make together. From the Stone Age to the Space Age.
 
