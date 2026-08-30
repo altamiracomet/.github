@@ -34,9 +34,9 @@ For our first proof of concept, we made a small vial of water containing five mi
 
 Work continues on improving the image processing so it can represent the diversity of people around the world consistently and make everyone's golden selfie equally recognizable and appealing, while developing the fabrication process needed to produce a billion unique sculptures.
 
-### Making a comet
+### Artificial comet
 
-**How do we make an artificial comet?**
+**How do we make a small artificial object behave like a real comet?**
 
 We are exploring how to form the comet from water and golden selfies, whether to freeze it before launch or in space, how to release it safely, and how sublimation will release the selfies and shape the comet's tail.
 
