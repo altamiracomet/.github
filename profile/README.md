@@ -12,48 +12,71 @@ Our goal is for at least one billion people across countries, cultures, and comm
 
 **We All Go.**
 
-## What we’re working on
+This GitHub follows the technical development of the comet. Once launched, the public campaign for participation in the comet will be found at [altamiracomet.org](altamiracomet.org).
 
-This GitHub follows the technical development of the comet.
+## What we're working on
+
+Making the Altamira Comet requires work across software, nanofabrication, comet science, spacecraft engineering, instructional design, and global accessibility. These are some of the main things we're working on now.
+
+### Digital platform
+
+**How does someone take their selfie and become part of the comet?**
+
+We are building the digital experience for taking your selfie, seeing it transformed into a golden selfie, and adding it to the comet with millions of others worldwide.
+
+The work involves the golden selfie filter and service, privacy and storage, shareable digital artifacts, the Altamira Comet website, and ways for participants to see the comet grow and eventually follow its journey around the Sun.
+
+### Golden selfies
 
 **How do we turn a billion people's unique digital selfies into a billion microscopic golden sculptures?**
 
-For our first proof of concept, we made a vial of water containing five million golden selfies using computer vision and electron-beam lithography, documented in [Altamira Comet proof-of-concept](https://www.sciencedirect.com/science/article/pii/S0094576523001819) (Acta Astronautica Volume 210, September 2023). 
+For our first proof of concept, we made a small vial of water containing five million golden selfies using computer vision and electron-beam lithography, documented in [Altamira Comet proof-of-concept](https://www.sciencedirect.com/science/article/pii/S0094576523001819) (*Acta Astronautica*, Volume 210, September 2023).
 
-Work continues on improving the image processing so it can represent the diversity of people around the world consistently and make everyone’s golden selfie equally recognizable and appealing, while scaling fabrication from millions of sculptures to a billion.
+Work continues on improving the image processing so it can represent the diversity of people around the world consistently and make everyone's golden selfie equally recognizable and appealing, while developing the fabrication process needed to produce a billion unique sculptures.
 
-**How do we make a small artificial object behave just like a real comet?**
+### Making a comet
 
-We are exploring how to form the comet from water and golden selfies, whether to freeze it before launch or in space, how to release it safely, how sublimation will release the selfies and shape its tail, and how the comet will continue to evolve over time.
+**How do we make an artificial comet?**
 
-**How do we carry the comet into heliocentric orbit, release it safely, and observe our journey?**
+We are exploring how to form the comet from water and golden selfies, whether to freeze it before launch or in space, how to release it safely, and how sublimation will release the selfies and shape the comet's tail.
 
-The work includes CubeSat system architecture, design of the comet container and deployment mechanism, orbit trajectory validation, communications and documentation, and planning for integration with a commercial rideshare launch.
+The work includes modeling and experiments around formation, freezing, storage, particle distribution, deployment, sublimation, tail formation, visibility, and the comet's evolution after release.
 
-**How can anyone on Earth participate?**
+### Spacecraft, launch & operations
 
-Our goal is not simply to reach a large audience, it is to make it genuinely possible for anyone, anywhere, to add their own selfie to the comet. We are developing ways for people to participate wherever they are — through the web and social media, schools and classrooms, local partners and events, and physical access points where needed. The experience should work across languages, countries, cultures, devices, and different levels of internet access, as a simple act: take your selfie, see it transformed into your golden selfie, and add it to the comet with everyone else.
+**How do we carry the comet into heliocentric orbit, release it safely, and follow what happens next?**
+
+Work includes spacecraft mission design, CubeSat system architecture, design of the comet container and deployment mechanism, orbit trajectory validation, rideshare integration, and space qualification and testing.
+
+This work continues through launch and cruise, spacecraft deployment, release of the comet, and observing and tracking it as it travels around the Sun.
+
+### Instructional design
+
+**How can youth & students around the world play a leading role in global participation?**
+
+We are developing lessons and activities for youth & students that use the Altamira Comet to connect art, science, engineering, technology, and culture — from prehistoric hands and the history of the selfie to nanofabrication and comets in culture.
+
+The work includes educational materials, a classroom web experience, integration with the participation platform, and partnerships that can help students around the world take part and invite their families and communities to join them.
+
+### Global accessibility
+
+**How can anyone on Earth become part of the comet?**
+
+The challenge is not simply to reach a billion people. It is to make it genuinely possible for anyone, anywhere in the world, to add their selfie to the comet.
+
+Our goal is not simply to reach a large audience, it is to make it genuinely possible for anyone, anywhere, to add their own selfie to the comet. We are developing ways for people to participate through the web and social media, schools and classrooms, events, and physical access points where needed. The experience should work across languages, countries, cultures, devices, and different levels of internet access, as a simple act: take your selfie, see it transformed into your golden selfie, and add it to the comet with everyone else.
 
 ## A constellation of contributors
 
-We're figuring this out as we go.
-
 The Altamira Comet is being made by scientists, artists, engineers, designers, students, universities, companies, studios, laboratories, organizations, and individuals around the world.
 
-**Contribute what you can.**  
-Some contributions span years. Others might be an experiment, a design, a piece of code, a useful introduction, or an answer to one difficult question.
+There is no single way to contribute and no fixed structure for how the work gets done. People gather around different questions and parts of the project, bringing whatever they can. Some contributions span years. Others might be an experiment, a design, a piece of code, a useful introduction, or an answer to one difficult question.
 
-**Let expertise lead.**  
-Different people lead different parts of the work.
+Different people lead different parts of the work, often simply because they have the expertise, interest, or initiative to move something forward. New groups can form as new questions emerge, and the shape of the collaboration can change as the comet develops.
 
-**Share what we learn.**  
-Where we can, we make the work visible here so others can understand and build on it.
+Much of the work is shared here so that others can understand it, build on it, or find a place where they might contribute. We try to make visible the many people who help along the way.
 
-**Give credit generously.**  
-The project makes visible the many people who help make it possible.
-
-**Leave room for change.**  
-The way we collaborate can evolve along with the comet.
+We're figuring this out as we go.
 
 ## Why Altamira?
 
