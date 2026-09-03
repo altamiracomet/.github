@@ -82,6 +82,4 @@ We're figuring this out as we go.
 
 Tens of thousands of years ago, our ancestors left impressions of their hands on cave walls around the world, including the Cave of Altamira in Spain. Each hand is the mark of a unique, individual person, but *together* the hands are an act of communication made by a community, for a community.
 
-The Altamira Comet began with the idea that our selfies may be a contemporary version of this same gesture: a simple way for each person on Earth to leave their own mark and at the same time become part of something shared that we all make together. From the Stone Age to the Space Age.
-
-We All Go.
+The Altamira Comet began with the idea that our selfies are a contemporary version of this same gesture: a simple way for each person on Earth to leave their own mark and at the same time become part of a shared work that we all make together. From the Stone Age to the Space Age!
