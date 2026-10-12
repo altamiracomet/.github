@@ -18,14 +18,6 @@ This GitHub follows the development of the comet. Once launched, the public camp
 
 Making the Altamira Comet requires work across software, nanofabrication, comet science, spacecraft engineering, instructional design, and global accessibility. These are some of the main things we're working on now.
 
-### Digital platform
-
-**How does someone take their selfie and become part of the comet?**
-
-We are building the digital experience for taking your selfie, seeing it transformed into a golden selfie, and adding it to the comet with millions of others worldwide.
-
-The work involves the golden selfie filter and service, privacy and storage, shareable digital artifacts, the Altamira Comet website, and ways for participants to see the comet grow and eventually follow its journey around the Sun.
-
 ### Golden selfies
 
 **How do we turn a billion people's unique digital selfies into a billion microscopic golden sculptures?**
@@ -33,6 +25,14 @@ The work involves the golden selfie filter and service, privacy and storage, sha
 For our first proof of concept, we made a small vial of water containing five million golden selfies using computer vision and electron-beam lithography, documented in [Altamira Comet proof-of-concept](https://www.sciencedirect.com/science/article/pii/S0094576523001819) (*Acta Astronautica*, Volume 210, September 2023).
 
 Work continues on improving the image processing so it can represent the diversity of people around the world consistently and make everyone's golden selfie equally recognizable and appealing, while developing the fabrication process needed to produce a billion unique sculptures.
+
+### Digital platform
+
+**How does someone take their selfie and become part of the comet?**
+
+We are building the digital experience for taking your selfie, seeing it transformed into a golden selfie, and adding it to the comet with millions of others worldwide.
+
+The work involves the golden selfie filter and service, privacy and storage, shareable digital artifacts, the Altamira Comet website, and ways for participants to see the comet grow and eventually follow its journey around the Sun.
 
 ### Artificial comet
 
